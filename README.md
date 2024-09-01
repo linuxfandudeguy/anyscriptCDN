@@ -1,4 +1,3 @@
-Here's the updated README with the deployment buttons for Netlify, Vercel, Replit, Cyclic, Cloudflare Pages, Glitch, and Koyeb:
 
 <img src="/assets/logo.svg" alt="Logo" class="">
 
