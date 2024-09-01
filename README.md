@@ -16,10 +16,10 @@
 
 ## Features
 
-- **Multi-Registry Support:** Fetch scripts from npm, Yarn, and pnpm.
+- **Multi-Registry Support:** Fetch scripts from npm, yarn, and pnpm.
 - **Custom URL Structure:** Simple and intuitive URL format for including libraries.
 - **Latest Version Support:** Automatically fetch the latest version of any library.
-- **Multiple Deployment Options:** Easily deploy on Vercel, Netlify, Replit, Cyclic, Cloudflare Pages, Glitch, or Koyeb.
+- **Multiple Deployment Options:** Easily deploy on Vercel, Netlify, Replit, Cyclic, Glitch, or Koyeb.
 
 ## Getting Started
 
@@ -40,12 +40,12 @@ To use AnyScriptCDN, you can include scripts and styles in your HTML by referenc
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>AnyScriptCDN Example</title>
-    <!-- Include React via Yarn -->
+    <!-- Include React via yarn -->
     <script src="https://anyscript-cdn.vercel.app/yarn/react/@latest/umd/react.production.min.js"></script>
     <!-- Include Tailwind CSS via npm -->
     <link href="https://anyscript-cdn.vercel.app/npm/tailwindcss/@2.2.19/dist/tailwind.min.css" rel="stylesheet">
     <!-- Include Axios via pnpm -->
-    <script src="https://anyscript-cdn.vercel.app/pnpm/axios/@latest/dist/axios.js"></script>
+    <script src="https://anyscript-cdn.vercel.app/pnpm/axios/@1.7.7/dist/axios.js"></script>
 </head>
 <body>
     <h1>Welcome to AnyScriptCDN</h1>
