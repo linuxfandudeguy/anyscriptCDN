@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AnyScriptCDN - Usage</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@latest/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-gray-900 text-gray-100 font-sans">
+    <!-- Navigation Bar -->
+    <nav class="bg-purple-900 py-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <a href="index.html" class="text-2xl font-bold text-purple-300">AnyScriptCDN</a>
+            <ul class="flex space-x-4">
+                <li><a href="features.html" class="text-gray-100 hover:text-purple-300">Features</a></li>
+                <li><a href="usage.html" class="text-gray-100 hover:text-purple-300">Usage</a></li>
+                <li><a href="getting-started.html" class="text-gray-100 hover:text-purple-300">Getting Started</a></li>
+                <li><a href="https://github.com/linuxfandudeguy/anyscriptcdn" class="text-gray-100 hover:text-purple-300">GitHub</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="bg-purple-900 py-6">
+        <div class="container mx-auto text-center">
+            <h1 class="text-4xl font-bold text-purple-300">Usage</h1>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto py-8 px-4">
+        <section>
+            <h2 class="text-2xl font-semibold text-purple-300 mb-4">How to Use AnyScriptCDN</h2>
+            <p class="text-lg text-gray-400">Base URL: <code class="bg-gray-800 p-1 rounded">https://anyscript-cdn.vercel.app/</code></p>
+            <ul class="list-disc list-inside text-gray-400">
+                <li><span class="font-semibold">NPM:</span> <code class="bg-gray-800 p-1 rounded">/npm/:packageName/@:version/:filename</code></li>
+                <li><span class="font-semibold">Yarn:</span> <code class="bg-gray-800 p-1 rounded">/yarn/:packageName/@:version/:filename</code></li>
+                <li><span class="font-semibold">PNPM:</span> <code class="bg-gray-800 p-1 rounded">/pnpm/:packageName/@:version/:filename</code></li>
+            </ul>
+            <h3 class="mt-4 text-xl font-semibold text-purple-300">Examples</h3>
+            <ul class="mt-2 list-disc list-inside text-gray-400">
+                <li><code class="bg-gray-800 p-1 rounded">/yarn/react/@latest/umd/react.production.min.js</code></li>
+                <li><code class="bg-gray-800 p-1 rounded">/npm/lodash/@4.17.21/lodash.min.js</code></li>
+            </ul>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-purple-900 py-4">
+        <div class="container mx-auto text-center text-gray-300">
+            <p>© 2024 AnyScriptCDN. All rights reserved.</p>
+            <p>Check out the <a href="https://github.com/linuxfandudeguy/anyscriptcdn" class="text-purple-300 hover:underline">official GitHub repository</a> for more information.</p>
+        </div>
+    </footer>
+</body>
+
+</html>
