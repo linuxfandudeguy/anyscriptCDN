@@ -7,7 +7,6 @@
 [![Deploy on Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/linuxfandudeguy/anyscriptCDN)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/linuxfandudeguy/anyscriptCDN)
 [![Run on Cyclic](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/linuxfandudeguy/anyscriptCDN)
-[![Deploy to Cloudflare](https://raw.githubusercontent.com/z1g-project/terbium/main/static/resources/cflogo.png)](https://github.com/linuxfandudeguy/anyscriptCDN/wiki/Deploy-to-Cloudflare-Pages)
 [![Run on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/glitch.svg)](https://glitch.com/edit/#!/import/github/linuxfandudeguy/anyscriptCDN)
 [![Deploy to Koyeb](https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/linuxfandudeguy/anyscriptCDN&branch=main&name=anyscriptCDN)
 
@@ -62,7 +61,6 @@ You can deploy your own instance of AnyScriptCDN using one of the following serv
 - [Netlify](https://app.netlify.com/start/deploy?repository=https://github.com/linuxfandudeguy/anyscriptCDN)
 - [Replit](https://replit.com/github/linuxfandudeguy/anyscriptCDN)
 - [Cyclic](https://app.cyclic.sh/api/app/deploy/linuxfandudeguy/anyscriptCDN)
-- [Cloudflare Pages](https://github.com/linuxfandudeguy/anyscriptCDN/wiki/Deploy-to-Cloudflare-Pages)
 - [Glitch](https://glitch.com/edit/#!/import/github/linuxfandudeguy/anyscriptCDN)
 - [Koyeb](https://app.koyeb.com/deploy?type=git&repository=github.com/linuxfandudeguy/anyscriptCDN&branch=main&name=anyscriptCDN)
 
